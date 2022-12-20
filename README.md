@@ -1,2 +1,2 @@
 # CTIP-Women-Glossary
-👩‍💻💕Glossary to remeber the new networking vocabulary
+👩‍💻💕Glossary to remember the new networking vocabulary
