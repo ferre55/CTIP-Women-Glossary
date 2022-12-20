@@ -3,6 +3,17 @@
 
 1
 
+NIC: (Network Interface Card)  physically connects the end device to the network
+
+Physical Port: A connector or outlet on a networking device where the media connects to an end device or another networking device.
+
+Interface: Specialized ports on a networking device that connect to individual networks. Because routers connect networks, the ports on a router are referred to as network interfaces.
+
+IP: Internet Protocol
+
+
+USB: Universal Serial Bus
+
 
 OS: operating system
 
@@ -53,5 +64,13 @@ DNS: Domain Name System
 
 
 Protocols: sets of agreed upon rules that have been created by standards organizations
+
+Segementation:
+
+Sequencing:is the process of numbering the segment si that the message may be ressaembled at the destination.
+
+
+Encapsulation: is a top down process
+TCP:Transmission Control Protocol 
 
 
