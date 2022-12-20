@@ -2,13 +2,29 @@
 👩‍💻💕Glossary to remember the new networking vocabulary
 
 1
+
+
 OS: operating system
+
+
 BYOD:Bring your own device
+
+
 IOS: Internetworking Operating System
+
+
 PC: personal computer
+
+
 CLI:command-line interface
+
+
 LAN:Local area network
+
+
 WAN:wide area network
+
+
 2
 
 RAM:random access memory
