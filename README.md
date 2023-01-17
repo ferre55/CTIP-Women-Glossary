@@ -3,14 +3,19 @@
 
 1
 
+Hosts: devices on the network that are assigned a number for communication purposes (can be called end devices or clients)
+
+clients: have software for requesting and displaying the information obtained from the server
+
 NIC: (Network Interface Card)  physically connects the end device to the network
 
 Physical Port: A connector or outlet on a networking device where the media connects to an end device or another networking device.
 
 Interface: Specialized ports on a networking device that connect to individual networks. Because routers connect networks, the ports on a router are referred to as network interfaces.
 
-IP: Internet Protocol
+IP: (Internet Protocol)  identifies the host and the network to which the host is attached.
 
+Servers: computers with software that allow them to provide information
 
 USB: Universal Serial Bus
 
